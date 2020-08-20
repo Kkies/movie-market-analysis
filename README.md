@@ -11,9 +11,13 @@
 
 ## Observations
 - Although animation comes in last for top 10 number of movies produced, it comes in top 5 for cumulative revenue. In addition, each decade of animation release has significantly   increasing amount of revenue.
+  - graph
 - While May seems to be a good month for revenue, it is not a good month for longevity. 
+  - graph
 - A wide array of actors, actresses, directors, and composers would make for a great movie production.
+  - graph
 - Most Twitter users we queried were actually conflicted on going back to theatres/theatre reopening.
+  - graph
 ---
 
 ## Recommendations
