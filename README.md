@@ -16,7 +16,7 @@
 ![Screen Shot 2020-08-20 at 8 28 23 PM](https://user-images.githubusercontent.com/44031998/90838790-cebbdc00-e323-11ea-8599-ff8f1433a313.png)
 - While May seems to be a good month for revenue, it is not a good month for longevity. 
 ---
-![Screen Shot 2020-08-20 at 8 29 54 PM](https://user-images.githubusercontent.com/44031998/90838842-f3b04f00-e323-11ea-9523-5b6c1972580e.png)
+![Screen Shot 2020-08-20 at 8 31 57 PM](https://user-images.githubusercontent.com/44031998/90838936-3d009e80-e324-11ea-975f-3daf20a93998.png)
 - A wide array of actors, actresses, directors, and composers would make for a great movie production.
 ---
 ![Screen Shot 2020-08-20 at 8 30 53 PM](https://user-images.githubusercontent.com/44031998/90838888-12164a80-e324-11ea-85da-9937bc57494d.png)
