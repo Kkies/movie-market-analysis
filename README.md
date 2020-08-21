@@ -12,12 +12,15 @@
 ## Observations
 ![cum_rev_genre](https://user-images.githubusercontent.com/44031998/90838622-52c19400-e323-11ea-9c12-fc48a93ea81d.png)
 - Although animation comes in last for top 10 number of movies produced, it comes in top 5 for cumulative revenue. In addition, each decade of animation release has significantly   increasing amount of revenue.
+---
+![Screen Shot 2020-08-20 at 8 28 23 PM](https://user-images.githubusercontent.com/44031998/90838790-cebbdc00-e323-11ea-8599-ff8f1433a313.png)
 - While May seems to be a good month for revenue, it is not a good month for longevity. 
-  - graph
+---
+![Screen Shot 2020-08-20 at 8 29 54 PM](https://user-images.githubusercontent.com/44031998/90838842-f3b04f00-e323-11ea-9523-5b6c1972580e.png)
 - A wide array of actors, actresses, directors, and composers would make for a great movie production.
-  - graph
+---
+![Screen Shot 2020-08-20 at 8 30 53 PM](https://user-images.githubusercontent.com/44031998/90838888-12164a80-e324-11ea-85da-9937bc57494d.png)
 - Most Twitter users we queried were actually conflicted on going back to theatres/theatre reopening.
-  - graph
 ---
 
 ## Recommendations
