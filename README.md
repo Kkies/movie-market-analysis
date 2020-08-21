@@ -1,11 +1,9 @@
 # Movie Market Analysis 
   ### By Kyle and Ben 
-  
 ---
 
 ## Problem
 - Microsoft is starting a movie studio and needs insight on what type of movie they should make
-
 ---
 
 ## Our Quest 
@@ -16,7 +14,8 @@
 ---
 
 ## Observations
-![cum_rev_genre](https://user-images.githubusercontent.com/44031998/90838622-52c19400-e323-11ea-9c12-fc48a93ea81d.png)
+
+![Screen Shot 2020-08-21 at 8 33 33 AM](https://user-images.githubusercontent.com/44031998/90891022-0dd04880-e389-11ea-9cbb-8d64dede92fa.png)
 - We found that the best genre of movie to make is either animation, adventure of sci-fi.
 ---
 ![Screen Shot 2020-08-20 at 8 28 23 PM](https://user-images.githubusercontent.com/44031998/90838790-cebbdc00-e323-11ea-8599-ff8f1433a313.png)
@@ -40,6 +39,5 @@
 - Github links for the repos/source code/ppt  
 - Github Repositories:  https://github.com/Kkies/movie-market-analysis
 - Google Slides:  https://tinyurl.com/y272tkpr
-
 ---
 
