@@ -1,8 +1,14 @@
 # Movie Market Analysis 
   ### By Kyle and Ben 
+  
 ---
 
-## Introduction - Our Questions 
+## Problem
+- Microsoft is starting a movie studio and needs insight on what type of movie they should make
+
+---
+
+## Our Questions 
 - What genre is best? 
 - When should we premier 'Microsoft Studios'? 
 - Which team should we build? 
@@ -11,16 +17,16 @@
 
 ## Observations
 ![cum_rev_genre](https://user-images.githubusercontent.com/44031998/90838622-52c19400-e323-11ea-9c12-fc48a93ea81d.png)
-- Although animation comes in last for top 10 number of movies produced, it comes in top 5 for cumulative revenue. In addition, each decade of animation release has significantly   increasing amount of revenue.
+- We found that the best genre of movie to make is either animation, adventure of sci-fi.
 ---
 ![Screen Shot 2020-08-20 at 8 28 23 PM](https://user-images.githubusercontent.com/44031998/90838790-cebbdc00-e323-11ea-8599-ff8f1433a313.png)
-- While May seems to be a good month for revenue, it is not a good month for longevity. 
+- While May seems to be a good month for revenue, it is not a good month for longevity. That being said, as a new studio, we should focus on capitalizing on the summer market in June or July. After the blockbusters kick off the summer in May and we don't have them to compete with
 ---
 ![Screen Shot 2020-08-20 at 8 31 57 PM](https://user-images.githubusercontent.com/44031998/90838936-3d009e80-e324-11ea-975f-3daf20a93998.png)
-- A wide array of actors, actresses, directors, and composers would make for a great movie production.
+- Here are the top 15 actors/actresses who's movies have generated the most amount of revenue.
 ---
 ![Screen Shot 2020-08-20 at 8 30 53 PM](https://user-images.githubusercontent.com/44031998/90838888-12164a80-e324-11ea-85da-9937bc57494d.png)
-- Most Twitter users we queried were actually conflicted on going back to theatres/theatre reopening.
+- Most Twitter users we queried were actually conflicted on going back to theatres/theatre reopening. We need more data to be able to answer whether an online release would be better.
 ---
 
 ## Recommendations
