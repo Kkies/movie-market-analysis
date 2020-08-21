@@ -8,7 +8,7 @@
 
 ---
 
-## Our Questions 
+## Our Quest 
 - What genre is best? 
 - When should we premier 'Microsoft Studios'? 
 - Which team should we build? 
